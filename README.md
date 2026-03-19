@@ -1,6 +1,6 @@
 # PowerBI-Lab-Work_3
 
-Google slides: https://docs.google.com/presentation/d/1k03J-WqkiiWnTfz-zj0rKYFeBPCvo5k75ZZqPjwKjmY/edit?usp=sharing
+[Click here to view PDF](./CABUSAS_PATHRICK_Power_BI_Laboratory_Work_Activity_3.pdf)
 
 # Part 1: Review the Merged Dataset Guide Questions
 
